@@ -3,7 +3,7 @@ A script to install and secure Node-Exporter to get the metrics on your Promethe
 
 
 
- ` ###############  INSTALL ########## `  
+   ###############  INSTALL ##########  
 ` git clone https://github.com/moeinforoughi/nodeexporter-setup-script.git `   
 ` cd nodeexporter-setup-script `  
 ` chmod +x setup.sh `  
